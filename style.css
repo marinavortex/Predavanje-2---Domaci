@@ -6,6 +6,10 @@ h1{
     text-decoration: underline;
 }
 
-.prviPodnaslov{
+.prviPodnaslov {
     color: rgb(193, 14, 142);
 }   
+
+body {
+    text-align: center;
+}

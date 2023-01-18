@@ -1,15 +1,19 @@
-.profilnaSlika{
-    border-radius: 30px;
+.profilnaSlika {
+	border-radius: 30px;
 }
 
-h1{
-    text-decoration: underline;
+h1 {
+	text-decoration: underline;
 }
 
 .prviPodnaslov {
-    color: rgb(193, 14, 142);
-}   
+	color: rgb(193, 14, 142);
+}
 
-body {
-    text-align: center;
+.aquaPozadina {
+	background-color: aqua;
+}
+
+.centrirano {
+	text-align: center;
 }
